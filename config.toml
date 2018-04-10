@@ -1,8 +1,7 @@
 baseURL = "https://markopoloparadox.github.io"
 languageCode = "hr"
-title = "My New Hugo Site"
+title = "DuckTales Woo-oo!"
 theme = "nix"
-
 
 [menu]
   [[menu.header]]
