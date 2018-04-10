@@ -1,0 +1,28 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "nix"
+
+
+[menu]
+  [[menu.header]]
+    name = "blog"
+    weight = 0
+    url = "/blog"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "/about"
+
+[params]
+  StackOverflowID = "3872873/markop"
+  GithubID = "markopoloparadox"
+  LinkedInID = "marko-petrlić-674b7110b"
+  FacebookID = "Krizevci.MarkoPetrlic"
+  Name = "Marko Petrlić"
+  HeaderUsername = "marko"
+  HeaderHostname = "petrlic"
+  Email = "petrlic.marko@gmail.com"
+  Mobile = "+385958548082"
+  About = "info_about_you"
+  ProfilePicture = "img/me.jpg"
