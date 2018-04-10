@@ -1,6 +1,6 @@
-baseURL = "https://markopoloparadox.github.io"
+﻿baseURL = "https://markopoloparadox.github.io"
 languageCode = "hr"
-title = "DuckTales Woo-oo!"
+title = "marko@petrlic ~ $"
 theme = "nix"
 
 [menu]
